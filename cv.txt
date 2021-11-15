@@ -2,3 +2,4 @@ Name: Renke Cools
 Age: 24
 City: Lommel
 Animals: Murphy
+Hobbies: books, movies, eating
